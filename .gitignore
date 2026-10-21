@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+# 构建产物与第三方运行环境（通过 Release 分发安装包）
+dist/
+build/
+vendor/
+installer/vendor/
+*.exe
+*.zip
+# 本机配置（含配对密码）
+.lankvm.json

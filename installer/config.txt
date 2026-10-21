@@ -1,0 +1,6 @@
+;!@Install@!UTF-8!
+Title="LanKVM 局域网键鼠共享 安装程序 — 老白玩AI"
+BeginPrompt="即将安装 LanKVM 局域网键鼠共享 v1.2.0。\n\n· 已安装 Python 的电脑：直接使用，跳过安装\n· 未安装 Python 的电脑：自动安装内置的 Python 3.12\n  （免安装版，无需联网，不修改系统设置）\n\n作者：老白玩AI　官网：https://laobaiai.com/\n\n是否继续？"
+Directory=""
+RunProgram="cmd.exe /c setup.cmd"
+;!@InstallEnd@!
